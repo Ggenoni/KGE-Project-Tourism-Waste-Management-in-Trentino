@@ -89,9 +89,9 @@ ORDER BY ASC(?distance)
     
 | Member                   | Contribution Area       |
 |:-------------------------|:------------------------|
-| Gaudenzia Genoni         | Knowledge Engineer      |
-| Maria Amalia Pelle       | Project Manager    |
-| Yishak Tadele Nigatu     | Data Scientist      |
+| Gaudenzia Genoni - [@Ggenoni](https://github.com/Ggenoni)         | Knowledge Engineer      |
+| Maria Amalia Pelle - [@pariamelle](https://github.com/pariamelle)       | Project Manager    |
+| Yishak Tadele Nigatu - [@isaaclucky](https://github.com/isaaclucky)     | Data Scientist      |
 
 ## License
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
